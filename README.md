@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 ᴛᴍᴍ ꭙ ᴍᴜsɪᴄ 」──
+    ──「 ALON ꭙ BAD 」──
 </h2>
 
 <p align="center">
