@@ -12,17 +12,17 @@ from pyrogram.types import Message
 
 from config import BANNED_USERS, adminlist
 from strings import get_string
-from AarohiX import app
-from AarohiX.misc import SUDOERS
-from AarohiX.utils.database import (
+from SlayerX import app
+from SlayerX.misc import SUDOERS
+from SlayerX.utils.database import (
     get_assistant,
     get_cmode,
     get_lang,
     get_playmode,
     get_playtype,
 )
-from AarohiX.utils.logger import play_logs
-from AarohiX.utils.stream.stream import stream
+from SlayerX.utils.logger import play_logs
+from SlayerX.utils.stream.stream import stream
 
 RADIO_STATION = {
     "Air Bilaspur": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio110/playlist.m3u8",
